@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CatDog</folder>
+	<filename>000205.jpg</filename>
+	<path>/Users/trinhtruc/Downloads/VOCdevkit/CatDog/000205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>277</ymin>
+			<xmax>241</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

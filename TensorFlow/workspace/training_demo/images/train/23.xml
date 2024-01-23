@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>23.jpeg</filename>
+	<path>/Users/trinhtruc/Documents/STUDY/Khoa học dữ liệu ảnh_Nền tảng và Ứng dụng/230104026_Lab2/ObjectDetectionExample/dataset/23.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>564</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>99</ymin>
+			<xmax>353</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
